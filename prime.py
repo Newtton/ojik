@@ -11,4 +11,3 @@ def prime(bilangan):
 
 tes = prime(8)
 print(tes)
-
